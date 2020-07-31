@@ -1,2 +1,2 @@
 # onlilne-tuition-provider
-laravel project-2
+Web Based Project using LARAVEL
